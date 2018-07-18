@@ -1,0 +1,1 @@
+i know this nead a package.json, was taken from another project just want to commit it first
